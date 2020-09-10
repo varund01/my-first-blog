@@ -63,3 +63,11 @@ h1, h2, h3, h4 {
     background-color:gray;
 
 }
+
+#username{
+    font-size: 20pt;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
